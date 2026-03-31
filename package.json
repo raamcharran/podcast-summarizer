@@ -1,9 +1,20 @@
 {
   "name": "podcast-summarizer",
   "version": "0.1.0",
-  "description": "Turn any podcast episode URL into an interactive HTML infographic — AI-generated chapter summaries, insight scores, speaker attribution, knowledge graph, and RAG Q&A.",
+  "description": "Turn any podcast episode into an interactive visual summary — AI-generated infographics, knowledge graph, speaker attribution, and chapter breakdowns. Works with Anthropic, OpenAI, or local Claude CLI.",
   "main": "index.js",
   "type": "module",
+  "keywords": [
+    "podcast",
+    "ai",
+    "summary",
+    "infographic",
+    "knowledge-graph",
+    "transcript",
+    "anthropic",
+    "openai",
+    "claude"
+  ],
   "scripts": {
     "start": "node index.js",
     "test": "node --test test/*.test.js",
