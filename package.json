@@ -1,0 +1,21 @@
+{
+  "name": "podcast-summarizer",
+  "version": "0.1.0",
+  "description": "Turn any podcast episode URL into an interactive HTML infographic — AI-generated chapter summaries, insight scores, speaker attribution, knowledge graph, and RAG Q&A.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test test/*.test.js",
+    "test:evals": "node --test test/evals/*.eval.test.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "p-limit": "^6.1.0",
+    "youtube-transcript": "^1.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}

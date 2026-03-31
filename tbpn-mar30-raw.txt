@@ -1,0 +1,826 @@
+0:00
+The Lawyer Who Beat Meta and Google
+You're watching TVPN. Today is Monday March 30th, 2026. We are live from the TDPN Ultra Dome.
+0:07
+Speaker 2
+The temple of technology. The fortress of finance, the capital of capital.
+0:12
+Speaker 1
+Let me tell you about ramp.com baby. Time is money. Save both these use corporate cards, bill pay, accounting and a whole lot more all in one place. Let's pull up the linear line up. We got to take him coming on to give us the NVIDIA update. He is of course, the founder of Key Context, the sub stack.
+0:29
+Logan Bartlett's coming on from Red Point. Been way too long since we had him on. Maybe nearly a year, but he drops one of the greatest market updates, slide decks, analysis, very very good, tons of really interesting tidbits in there. And then we have a fantastic, it's a great lightning round for you today.
+0:49
+Linear of course is the system for modern software development. 70% of enterprise workspace on linear are using agents.
+0:55
+Speaker 2
+Lightning round, we got Ben Broca from Polsia, Sam founder of Granola on their 1.5 billion dollar valuation and then Brett Adcock.
+1:05
+Speaker 1
+What was your nickname for him again?
+1:07
+Speaker 2
+Who?
+1:08
+Speaker 1
+Brett Adcock. You had some nickname for him?
+1:11
+Speaker 2
+No, I didn't. He launched a Neolab last week.
+1:22
+Speaker 1
+Oh yeah, that's right.
+1:23
+Speaker 2
+We're going to be able to talk to him about models and hardware.
+1:26
+Speaker 1
+Hark, I hear the Angel singing.
+1:29
+Speaker 2
+And then Andre from Console joining as well. So looking forward to that.
+1:33
+Speaker 1
+Well, I've been addicted to social media lawsuits. I cannot get enough of these lawsuits. I keep reading about them.
+1:42
+Speaker 2
+You're potentially filing your own lawsuit against the lawyers that were coming after the social media.
+1:49
+Speaker 1
+Yeah. So there's actually a profile in the Wall Street Journal in the exchange this weekend, the lawyer who beat Meta and Google. And it goes into some of his techniques that are driving jurors crazy across the country. Attorney Mark Lanier, he uses props. He also uses parables, metaphors, axioms, all of the above. He moonlights as a preacher and it shows when he's taking on the world's most powerful companies.
+2:24
+The 65 year old came to court in downtown Los Angeles for closing arguments this month of one of the biggest trials of his career, armed with a parable of leavened bread.
+2:41
+So he knew he needed a simple way to show a jury that Meta's Instagram and Google's YouTube were designed to be addictive and were harmful to young people.
+2:52
+Speaker 2
+We just say he looks fantastic for 60.
+2:54
+Speaker 1
+Five does look fantastic. I do think he's doing important work and I do think there's a potentially really good outcome here. So the veteran plaintiff's lawyer from Texas showed them two grocery items, cupcakes and tortillas.
+3:15
+Social media, he told the courtroom, was like the baking powder that makes a cake rise, exacerbating the struggles of already vulnerable teens. We have an interactor, an amplifier, something that blows it up, Lanier said. We have here social media that takes the vulnerable and goes after them in destructive ways.
+3:53
+The simple image delivered with Lanier's slight drawl helped convince a majority of jurors. On Wednesday, the 9th day of deliberation, the jury found that Meta and YouTube were negligent in a case that accused the companies of designing their apps to be addictive and harmful to teens.
+4:10
+And there's some interesting images both of him walking into the courthouse with a large box of papers. Clearly very anti tech movement there. He's saying I reject technology. This cannot be stored digitally. I'm using paper.
+4:27
+Speaker 2
+This seems a little bit risky because we've been addicted to the printed word.
+4:43
+Speaker 2
+And we were forced to adjust.
+4:45
+Speaker 1
+Maybe he can flip over to be our defense attorney when we are attacked. A jury ordered the company to pay $3,000,000 each in compensatory damages and 3 million in punitive damages.
+5:03
+So I think it's 6,000,000 across both firms, but it's split compensatory and punitive damages. And a now 20 year old woman named Kaylee, whose last name was redacted in the case. She had testified that social media use that started when she was a child dominated her life for years and contributed to mental health issues including anxiety, depression and body dysmorphia.
+5:23
+Very sad situation. In a statement, Meta said it disagrees with the verdict and plans to pursue an appeal. Reducing something as complex as teen mental health to a single cause risks leaving the many broader issues teens face today unaddressed.
+5:42
+Not mutually exclusive, but of course that is a reasonable position for Meta to take. Google also put out a statement.
+5:50
+Speaker 2
+They're like we're not even a social media company.
+5:54
+Speaker 2
+Google said this understands YouTube, which is a responsibly built streaming platform, not a social media site.
+6:05
+Speaker 1
+Yeah, I think of YouTube very much as in the same world as social media. Anyone can post, but it is severely lacking in some of the greatest features of social media sites. When you actually become a YouTuber, you start putting out content professionally and they are in conversation with each other and they might be reacting to each others content. And of course there are different communities. There's the car YouTuber community and the game show community and the business community. And pretty quickly everyone sort of gets to know each other, but there's no DM feature.
+6:54
+Speaker 2
+Which is a good argument for it not being social media.
+6:59
+Speaker 1
+So like, we at this point have done the Colin and Samir show, but we don't really have a way to DM them and be surfaced to the top of the inbox. People have always wanted an inbox on YouTube.
+7:21
+Speaker 1
+It's insane because it would be so cool to be able to see I got a DM from someone who has 100,000 followers and I can click on their profile. Because they're an established YouTuber as opposed to everyone basically needs to flow over to Twitter or X and then DM there because the DM functionality is much more mature on X.
+7:50
+Speaker 2
+The other thing Google has is that so much of the watch time on YouTube is happening on television. Something like 50%. And so they can make the argument that this is just modern television.
+8:04
+Speaker 1
+Yeah. So let's go through Lanier's career because the Wall Street Journal has some interesting back story. Lanier has built a career representing plaintiffs against corporate giants. He won one of the first major wrongful death trials against pharma company Merck over claims that Vioxx caused heart problems.
+8:26
+He also won a $4.69 billion verdict in 2018 for women and their families who said asbestos tainted talcum powder caused ovarian cancer. So over his career, he's done some very good work and won some massive settlements against big companies with broadly damaging products.
+8:51
+The social media trial drew more scrutiny than he predicted before he joined the plaintiff's team last fall and was brought face to face with Meta chief executive Mark Zuckerberg.
+9:06
+Speaker 2
+I believe that Zuck is actually mewing in this picture.
+9:20
+Speaker 3
+You can tell his cortisol is not spiking here.
+9:21
+Speaker 1
+That's true. He seems calm, collected. Lanier was at the epicenter of a broad public debate about social media and how people stay connected or are disconnected on platforms offering nearly endless content curated by algorithms.
+9:41
+Nothing compared to this, Lanier said, reflecting on the attention to the trial over oatmeal toast and a Coke Zero in a downtown Los Angeles hotel the morning after the victory. Nothing even remotely close.
+10:00
+Social media companies have largely been shielded from being held liable for 3rd party content on their platforms by Section 230 of the 1996 Communications Decency Act.
+10:20
+At trial, Lanier had to focus on the platform's features, not the content, to make a case. The trial was the first among thousands of consolidated lawsuits filed by teenagers, school districts and state attorneys against Meta, YouTube, TikTok and Snap. More are scheduled for this year.
+10:58
+He's known for showing jurors hand drawn road maps and illustrations on an overhead projector. To visualize microscopic asbestos fibers in talcum powder, he brought a bale of hay into a courtroom and dropped a needle into the blades.
+11:43
+Speaker 1
+He held up a jar of 415 M and Ms to show how a $1 billion fine would be a fraction of Alphabet's 415 billion in shareholder equity. He needs a bigger jar because every tech company is five times larger now.
+12:16
+Speaker 1
+Lanier graduated from college at 20 and is trained as a minister before going to law school at Texas Tech University. He won a jury verdict of about 115 million in 1998 for 21 steel workers who felt ill after using machinery that contained asbestos. Lanier and his wife, Becky, met in high school debate class. They have five children and 12 grandchildren.
+12:50
+They were known for years for their child friendly Christmas parties at their estate of more than 35 acres near Houston, which has a model railroad that can seat 120 people.
+13:06
+Speaker 3
+Need a mansion section article.
+13:08
+Speaker 2
+I think we have a Direct Line to him. We want him on the show. Maybe we should go do a show from the model train.
+13:16
+Speaker 1
+I'm so ready to be convinced of his position. I wrote a whole piece about how I disagree with the result, but he's winning me.
+13:28
+Speaker 1
+So the model railroad can seat 120 people and he's got a menagerie. This is gold. You need to be menagerie maxing in life. His contains lemurs and llamas. The family pulled the plug on the party, which featured up to 9000 guests and performers, including Miley Cyrus, Johnny Cash and Dolly Parton. He said because it was too hard on the lawn.
+14:11
+Speaker 1
+Lanier said the theme of his cases against major corporations is responsibility and integrity, or lack of it. Tech billionaires don't need his help, but Kaylee would not have anybody else. Two of Lanier's daughters, who are lawyers, were by his side during the trial.
+14:45
+Speaker 1
+Lanier. I think it's Lanier. It's not linear. He's not a phony. What he does is not a performance. He posted short video selfies discussing Bible passages on YouTube. So he's dogfooding the thing that he's suing.
+15:19
+Speaker 2
+Yeah, let's switch gears to your piece.
+15:45
+Social Media Addiction Trial: Features vs. Content
+Speaker 1
+So last week, Brandon Garrell summarized the ruling this way. The plaintiff's lawyer Mark Lanier argued that Meta and YouTube built digital casinos that used neurobiological techniques similar to those employed by slot machines.
+16:03
+The jury found that specific features of Meta and YouTube are designed to be addictive. So infinite scroll creates an environment where there are no natural stopping points. Algorithmic recommendation feeds users highly engaging content. Autoplay removes users agency in choosing whether to watch the next video. Notifications pull users back in by exploiting their need for validation. IG beauty filters contribute to body dysmorphia and features like the Like button exploit users biological need for social approval.
+16:45
+The question is are the features addictive or is the content addictive? Because social media platforms are protected from the content that is posted on them.
+16:59
+Speaker 2
+Lanier's entire argument is predicated on it being the features.
+17:05
+Speaker 1
+Right. We talked to Eric Goldman from Santa Clara University of Law and he was saying yes, it's $6 million settlement right now, but this could be huge. The direct quote was whether we will even have social media in the future, this could be existential.
+17:23
+Speaker 2
+And there's thousands of other cases percolating.
+17:28
+Speaker 1
+They could turn into a class action. He's gotten 6 billion before, he could get 50 billion. This is the precursor and it's going further.
+17:48
+So I thought it was an odd coincidence that we had what I called the placebo-controlled trial for these exact features. Last week, when Sora shut down, OpenAI's nascent social network.
+18:15
+Speaker 1
+Sora was peak moral panic. All of these breathless takes about making videos that are going to addict humanity. Meanwhile, we made some funny videos that were less funny as time went on. The best Soras were up there with the best reels, and the humor relied significantly on the voice of the creator.
+18:57
+Speaker 1
+The key innovation was not the UI design or the fact that it's vertical or algorithmic feeds. The key insight was purely AI generated content and it didn't work. The features were not addictive because the people that downloaded Sora did not become addicted because the content was a little bit too sloppy.
+20:56
+Speaker 2
+It was just one type of content. And it turns out people like a broad selection and variability. The other thing is if it was the product itself and the features that were addicting, there would be so many social media apps effectively thriving. There would be like a bunch of Instagrams.
+21:30
+Speaker 1
+And this is where I get to the cigarette comparison. What is addictive about cigarettes? It is the nicotine. And that's why you do have 50 different cigarette brands and 1000 different e-cigarette brands. Nicotine gum is addictive. Nicotine patches are addictive. If the court is asking us to believe that the like button and the algorithmic feed are addictive, then we should see the addiction results from any app that implements that.
+22:28
+Speaker 2
+How many apps have you tried or test flights over the years that had any of these features that you used for 30 seconds?
+22:35
+Speaker 1
+Exactly. Because what actually keeps you coming back is the content which is created by the users.
+23:05
+Speaker 1
+There's a very wide range. You can go to truly amazing educational content. I'm thinking of 3Blue1Brown, this math channel. Andre Karpathy's YouTube videos. There's so many interesting educational history shows, podcasts.
+23:45
+Speaker 1
+I think the court is correct that some people go on social media and make horrible content that depresses people. Social media companies do have an enormous responsibility to manage recommendation feeds responsibly and route people in tough situations to helpful resources. Google already does this very well with mental health crisis keywords.
+24:24
+I think the big thing most people can agree on is parental controls. And getting tech companies to give users and parents more control over their experience. It's possible to disable algorithmic feeds and endless scroll with browser plugins on mobile web, but it's a much worse experience.
+26:55
+We've already seen this with a lot of the LLM companies where you can go in and fine tune and add a custom prompt. Surfacing that seems like a win win.
+27:43
+Speaker 2
+Let's go to Tyler.
+27:51
+Speaker 3
+I think you can say it's the content that's the problem. But the content is kind of downstream of the features, right? Because you didn't see short form video before these features existed.
+28:02
+Speaker 1
+The medium is the message. It is possible to create a platform that incentivizes addictive content. That's the retention curve. Retention editing makes it more addictive.
+28:18
+Speaker 3
+So that's the steel man for Lanier's position. And on the nicotine analogy, you have smoking which is definitely very bad for you. And then you have pouches which is probably less bad. So maybe the equivalent is the cool snowboarding videos on Instagram are like the cleaner nicotine stuff.
+28:54
+Speaker 1
+Still addictive, but not harmful.
+29:03
+Speaker 3
+And on the other side, the very graphic stuff on Instagram is like the cigarettes that's going to give you cancer.
+29:21
+Speaker 1
+There was an addictive component and a carcinogenic component and they needed to separate those out. Where we landed as a society was the addictive component is acceptable, suitable for the protection of public health according to the FDA. They are approving new products that are addictive but not carcinogenic.
+29:57
+Speaker 3
+Right now if you're under 18, the parental controls are very poorly enforced. You can actually see a lot of the bad stuff if you're under 18.
+30:24
+Speaker 2
+I think I have a potential solution. Let's pull up this image of a cigarette package in Europe.
+30:56
+Speaker 2
+On any given cigarette pack in Europe, you're going to see a really terrible image. So I think what Meta could do is as soon as you open Instagram, it makes an AI generated image based on the last picture of you that you posted and just makes you look terrible. Warning, social media will destroy you.
+31:34
+Speaker 1
+Potentially show you with tech neck.
+31:47
+Speaker 2
+Every time you open it, it's a new image of you looking the worst, wasting your life away.
+31:59
+Speaker 1
+Are the AI labs lobbying to get that removed? Because most of their timelines suggest that lung cancer will be cured by AI any day now. So potentially you could start smoking again.
+32:19
+Speaker 1
+If AI is going to cure liver cancer, it's game on. You can drink as much as you want.
+32:56
+Future Tech: Flying Cars, Robot Maids, and Tech Neck
+Speaker 2
+Let's revisit The Jetsons. Where's my flying car and three hour work day? The 1960s version of the future is way more fun than our reality, but when it comes to innovations, we're catching up.
+33:24
+This space age family sitcom features George and Jane Jetson living the American dream in an apartment in the sky with their two children, dog Astro and robot maid Rosie. The show is set in 2062, a century ahead from its original 1962 airdate. It's full of fantastical inventions such as flying cars, dinner generating machines, and canine treadmills.
+34:01
+Video calling she says. In lieu of a home phone, the Jetsons had a video phone. Shows creators couldn't fathom mobile devices, but they were spot on about video calling.
+34:32
+Speaker 2
+The Jetsons didn't predict the free tier.
+34:37
+Speaker 1
+The free tier of Zoom was not considered. You're clearly going to go long on the meeting and Zoom's just like goodbye. It's over and it kicks everyone out with no notice.
+35:07
+Speaker 2
+In the Jetsons, they can even create deep fakes to stand in for them on camera. When George secretly attended a robot football game, his simulacrum told Jane he had to work late.
+35:41
+Speaker 2
+Flying cars and travel tubes. George Aero commutes in a glass dome saucer that folds into a briefcase.
+36:08
+Speaker 1
+We're pretty far from there. We do have helicopters, but they're very expensive.
+36:23
+Speaker 2
+A version of flying cars is very real. It's called an eVTOL. The Pivotal Helix can be yours for 190K. You don't even need a pilot's license.
+36:57
+Push button jobs almost. George works as a digital index operator at Spacely Space Sprockets for approximately 3 hours a day, three days a week. As a button pusher. He makes enough to support a family of four.
+37:16
+Speaker 2
+They basically nailed this. There's some people out there that are basically button pushers right now. Vibe Coding.
+37:48
+Speaker 1
+They live above Earth with houses built on tall stilts. Meanwhile, an interplanetary space race between US, China, Russia and UAE is well underway.
+38:25
+Speaker 2
+It's funny that Brett Adcock's coming on today and he's working on the flying car and the robot maid.
+39:00
+Speaker 1
+And now for the show's biggest oversight. No touch screens. While the show may not have anticipated touch screens, it nailed a key side effect of constant use of gadgets. Repetitive motion injuries. Here in 2026, office workers often suffer from texting thumb and tech neck.
+39:38
+We may not be living as exceptional a future as the Jetsons, but we've still got three and a half decades to catch up. How many tech revolutions will we experience in another 36 years?
+40:04
+Speaker 3
+How do you define space colonization?
+40:06
+Speaker 1
+Living not on the earth above the Karman line for more than half the year. Population of millions.
+40:46
+Speaker 2
+Big news, Sean Frank is in the chat.
+41:21
+Speaker 2
+Andrew Reed says the faster technology progresses, the harder it gets to print something in the office.
+41:38
+Speaker 1
+Apple has just like never done the printer. There's never been the gold standard, the Tesla of printers.
+42:19
+What I Hate Most About Hotel Room Technology
+Speaker 1
+What I hate most about technology in hotel rooms. The Wall Street Journal says when you book a hotel room you can count on some things like shampoo, a hot shower. But a stress free technology experience? No way.
+42:51
+Did you know that Ben Thompson carries a special device that acts as a Wi-Fi repeater when he travels? He logs into the hotel Wi-Fi through that device. And then all of his devices connect to that automatically. He'll bring a Fire Stick so he can watch TV shows.
+43:40
+Speaker 1
+Hotels are missing out on a fundamental truth. The quality of a hotel's tech services is core to what it's like to stay there.
+44:17
+Many hotels have caught on to this reality by offering some sort of streaming option, but they approach this in so many different ways. Needy Wi-Fi is another one. Why are we still forcing people to log into the network over and over again?
+45:02
+Speaker 2
+The only thing I want from a hotel is to be able to order room service without calling someone. If you have a little iPad or you could order on the TV app, that would be amazing.
+45:29
+Speaker 1
+George Hotz was explaining how he ordered room service in a hotel by vibe coding an app that interacted with the ordering service so that he didn't have to talk to them. He was able to order by command line.
+46:00
+And you know who else is vibe coding these days? Gary Tan. Ben Hylak says the year is 2027. Gary Tan has just crossed 1 billion lines of code per day.
+46:39
+Speaker 3
+78,000 lines of code per day on Gary's list, which is his blog.
+47:17
+Speaker 2
+The Department of Energy will basically be a frontier AI company. NVIDIA is collaborating with Oracle and the Department of Energy to build the largest AI supercomputer for scientific discovery. The Solstice system will feature record-breaking 100,000 Blackwells.
+48:06
+Speaker 1
+We've talked about nationalization before. We haven't talked about privatization. We could potentially spin this out, take it public.
+48:22
+Speaker 1
+I think Meta is working on 500 megs.
+48:41
+Sysco to Acquire Restaurant Depot for $29.1 Billion
+Speaker 2
+Cisco to acquire Restaurant Depot for $29.1 billion.
+49:09
+Speaker 2
+Every time there's a new restaurant coming in my area, I'm excited about it. They invest $2 million in building out this incredible space. And then you eat there for the first time and you can tell that they're just sourcing Cisco food. The food quality is not great.
+49:52
+Speaker 1
+In The Jetsons, they had dinner generating machines.
+50:12
+Speaker 2
+The founder of Restaurant Depot who just sold for 29 billion was born in 1932. He's 94.
+51:10
+Office Chair Racing and Japan's Twitter Phenomenon
+Speaker 2
+We're heading over to Japan.
+51:14
+Speaker 1
+This is the key sport that we will all be picking up in 2026. This is going to be the hottest thing in San Francisco with the hills and the office chairs.
+51:30
+Speaker 2
+This athlete says the corner once controlled me, now I control it. We need to bring this to the US.
+52:09
+Speaker 3
+They basically introduced all of Japan Twitter onto normal Twitter.
+52:20
+Speaker 1
+Oh, because of translation.
+52:21
+Speaker 3
+For some reason this weekend, half of my timeline was just Japanese posts all about America, about how much they love BBQ, that they respect the cowboy aesthetics.
+52:35
+Speaker 2
+Over 50% of Japan is a weekly active user of X.
+53:01
+Speaker 1
+That's a narrative violation because when Grok went viral, everyone was like it's big in Japan. But it appears that Japan's just using Twitter broadly.
+53:19
+Speaker 2
+When I saw this quote pizza topped with a pizza in America, I thought there's no way we could beat these guys.
+54:09
+Speaker 1
+It's just some guys cooking a whole bunch of steaks.
+54:35
+Speaker 1
+As expected, we have a brand over here in America. We do things this particular way.
+55:02
+Speaker 2
+In Sasebo's dining establishment, it's common to spot U.S. military personnel enjoying their meals with lively enthusiasm. One day at a restaurant, I came across a group that reached an oddly intense level of excitement just upon seeing bacon.
+55:39
+In fundraising news, Physical Intelligence is in talks to raise $1 billion at 11 billion dollar valuation.
+55:51
+Speaker 1
+The company has previously raised more than 1 billion in capital from investors, including Jeff Bezos and Alphabet's Capital G.
+57:06
+Speaker 2
+Last night Bill Ackman hit the timeline. He said some of the highest quality businesses in the world are trading at extremely cheap prices. And Fannie Mae and Freddie are stupidly cheap. Asymmetry at its best. They could be a 10X.
+57:55
+Speaker 1
+It's not market manipulation. They generate 25 billion in stable annual net income from guaranteed fees. They're still in 2008 conservatorship and the stock trades for a total market cap of 10 billion.
+59:18
+Speaker 1
+Mike Zuccardi shares the current MAG 7 plus drawdowns from 52 week highs. NVIDIA is down 21%, Google is down 22%, Microsoft down 36%, Apple down 14%, Amazon 23%, Meta 34%, Tesla 28%.
+1:00:12
+Tae Kim on Nvidia's Stock and AI Inference Demand
+Speaker 6
+Thank you. It's been really gratifying. I was like maybe 15 subscribers or 20 subscribers, but hundreds of people showed up. Tons of billionaires and tech founders. It's insanely gratifying.
+1:00:42
+Speaker 1
+So is it over for NVIDIA? They're down 21% since the 52 week high. Is it doom and gloom?
+1:00:55
+Speaker 6
+No. The chip sector's flat on the year. Nvidia's down 10%. It reminds me a lot about a year ago, everyone freaking out about DeepSeek. And then everyone freaked out about Trump's tariffs. This year seems very similar. We have fears over AI CapEx and then Iran and oil.
+1:02:07
+Speaker 1
+I feel like the market half digested the agentic coding narrative. But in a world where you believe that narrative, you would think that NVIDIA would be going up.
+1:02:37
+Speaker 6
+Just like tariffs a year ago NVIDIA had 30% drawdown when their business was actually flying. I think the same thing is happening here with the Iran situation. Oil can't be $100 forever.
+1:03:16
+Speaker 1
+Maybe it'd be good to start with next generation chips, changes to strategy, what people are actually buying. The Grok partnership. What's sticking out on the actual AI product side?
+1:03:30
+Speaker 6
+Inference demand is exploding, driven by AI agents and coding assistance. I met with Ian Buck, I met with dozens of engineers at Meta, Google, NVIDIA, and all of them have seen crazy inference demand and AI compute shortages.
+1:04:15
+Speaker 6
+People are building bots to pick up any kind of B200 GPU. They're waiting weeks and months.
+1:04:30
+Speaker 6
+Jensen saw this demand months away. He locked up all the supply agreements for memory, CoAs, connectors ahead of time. Anthropic obviously is thriving on it, billions of ARR. Jensen acquired the assets of Brock and the people of Brock. The combination of integrating Grok's technology together with Vera Rubin lets NVIDIA serve this tremendous wave of compute demand economically.
+1:05:24
+Speaker 1
+On the Grok deal. Jensen did a fantastic interview with Ben Thompson about ASICs. It feels like there's a shift in NVIDIA strategy.
+1:06:08
+Speaker 6
+What Jensen does is he sees where the market is shifting. With Mellanox in 2019 he saw the world shifting to thousand GPU clusters. In the same manner he saw AI agents and inference taking off. 75% of inference is Vera Rubin, 25% is Grok low latency stuff. And we're in this great lift off of AI innovation.
+1:07:01
+Tae Kim on Nvidia's Supply Chain and CPU Shortage
+Speaker 6
+Anthropic Mythos leaked out. They told Fortune there's going to be a huge step up change. OpenAI is coming out with their model soon. Jeff Dean and Bill Dally both chief scientists of Google and NVIDIA talked about context window innovations and stacking memory right on top of the GPU or TPU.
+1:07:57
+There's this huge runway that data is not over. Jeff Dean talked about synthetic data for audio and video.
+1:08:10
+Speaker 1
+How are you processing the idea that NVIDIA will be investing in an open source frontier lab capability?
+1:08:49
+Speaker 6
+It's not acute. It's like 25 billion over the next few years, which doesn't really compete with what OpenAI and Anthropic are doing. These smaller models are going to be helpful for people running on smaller GPUs. As long as they're utilized, NVIDIA benefits. And the top people at Qwen left and we don't know where they went.
+1:09:23
+Speaker 2
+What's your theory on where they all went?
+1:09:28
+Speaker 6
+No one really knew, but people are trying to say NVIDIA should actually hire them. The more capable open source models, NVIDIA doesn't care if you're using GPU to run open source or not.
+1:10:24
+Speaker 6
+Jensen literally said at GTC, they got license approvals on both the US and China side. So we're going to see billions of dollars of H200 orders.
+1:10:51
+Speaker 1
+What is the supply side looking like? TSMC is not ramping CapEx nearly fast enough.
+1:11:10
+Speaker 6
+NVIDIA is in the driver's seat because Jensen goes to TSMC 5-6 times a year. They are getting a higher allocation to wafers. But industry wide, Google is dying to get more TPU wafers. There is going to be an AI compute shortage in the years to come.
+1:12:16
+Speaker 6
+Samsung and Intel could possibly do it. That's the bull case on Intel.
+1:12:47
+Speaker 1
+Is there a point where everyone comes to the table and says if the supply comes online, we will buy it at this price?
+1:13:11
+Speaker 6
+Apple and NVIDIA are considering either Intel or Samsung for their lower end stuff.
+1:13:29
+Speaker 1
+How are you processing the ARM CPU announcement? They're sort of frenemies with NVIDIA now.
+1:13:58
+Speaker 6
+ARM's CPU opportunity is longer term, 2030-2031. I don't expect the major hyperscalers to switch to ARM's product offering. But the ARM thing is very important because it confirms this massive CPU shortage. AI agents need more CPUs. The ARM CEO talked about four times more CPU cores versus last year's AI infrastructure model.
+1:15:37
+Speaker 2
+Give me your bull and bear case for Terafab.
+1:15:47
+Speaker 6
+I'm not that optimistic. It's so hard to do. How's Elon going to buy semi cap equipment from ASML and AMAT? There's just no capacity. This stuff takes decades. Chip fabs is almost like cooking, it takes a lot of trial and error accumulated over decades.
+1:16:52
+Speaker 1
+Where are we in semiconductor production? It feels like there's research and artistry to it. And the best semiconductor engineers are in Taiwan and they see it as a national urgency. TSMC folks are true missionaries, not mercenaries.
+1:18:20
+Speaker 2
+Would you expect xAI or SpaceX to open up as a neocloud?
+1:19:15
+Speaker 6
+Elon's pitch with the SpaceX IPO is the AI compute demand over the next 5-10 years. You're going to have to use SpaceX satellites that have GPUs in them to serve that. Like what Elon did with Starlink as a telecom infrastructure play, this would be an AI compute infrastructure play.
+1:20:11
+Speaker 6
+Helium, Jensen has talked about this risk, but there is 6 to 9 months of inventory in the channel. If the Iran stuff lasts more than a few months, then it becomes a problem.
+1:21:13
+Speaker 1
+Take me through depreciation gate.
+1:21:26
+Speaker 6
+It's totally not a problem right now. These things are lasting 5 to 6 years and getting almost 90-95% of the pricing. All GPU rental prices, even for stuff that's six years old, is still being sold out.
+1:22:04
+Speaker 2
+Where could the next step change in token demand come from?
+1:22:51
+Speaker 6
+I think coding is still just early innings. 10-20 agents and kind of overseeing them. These models are just going to get better. Companies are going to use them for every single vertical: customer service, research, simulating chip design, drug discovery. The AI agent wave is going to attack the $6 trillion knowledge economy.
+1:23:56
+Speaker 6
+It's like a calculator, a spreadsheet. 30-40 years ago we had 50 accountants doing the spreadsheet manually. The spreadsheet didn't get rid of knowledge work. It enabled people to think at a higher level.
+1:24:17
+Speaker 1
+One way you 10X token demand on a financial model is having the agent go and collect 10 times as much data. Hedge funds task satellites to take pictures of Walmart parking lots to project revenue.
+1:25:29
+Speaker 6
+Every year I do same store sales for fast casual companies like Chipotle, Cava. It used to take me an hour or two. A few weeks ago all the chat bots got it perfect. Saved me 2-3 hours of tedious manual labor.
+1:27:06
+Tae Kim's Perspective on Meta's AI Investments
+Speaker 2
+What's your outlook on Meta?
+1:27:16
+Speaker 6
+Every time it starts falling apart, I say it looks cheap and then it goes down another 30%, but nothing has changed. No one's going to replace that digital ad position. In the AI world, they're even better positioned because Google might lose digital ads share to AI chatbots.
+1:27:57
+And you saw what happened to Sora. Like everyone's all excited about Sora and that got shut down.
+1:28:03
+Speaker 1
+Even if the AI spending is a side quest, they just pulled forward 3 or 4 years of CapEx and they will use that for their other products. They can apply it to their ads platform and reels recommendations.
+1:28:51
+Speaker 6
+Reality Labs, he may have wasted 70 to 80 billion. He might waste 100 billion on frontier AI models. But the ad engine core business, that money making engine, is not going to be affected by this.
+1:30:43
+Logan Bartlett on Public vs. Private Software Valuations
+Speaker 5
+Good gentlemen, how are you?
+1:30:54
+Speaker 1
+I like this camera setup. This looks fantastic.
+1:30:58
+Speaker 5
+Once upon a time I was a semi professional podcaster before you guys stole all the thunder in the industry.
+1:31:21
+Speaker 1
+But you're also writing market analysis, which I always look forward to.
+1:31:26
+Speaker 2
+This has been consistently some of the best content in the VC industrial complex.
+1:32:01
+Speaker 5
+It started probably in January. I have this process every year where I have a panic attack that we have an annual meeting coming up. I got tricked in 2020 when I joined the firm, they said we're going to give you this illustrious honor of doing the market update. No one else wanted to do it.
+1:32:54
+Every year there's something going on that forces us to recalibrate. COVID, then ZIRP, then SVB, then tariffs. This year it became pretty clear it was going to be the software sell off and what was going on in the public markets.
+1:33:32
+I talked to a bunch of public investors. And software, what the hell is going on, was the big narrative. There was a major disconnect between what private folks were seeing going on and what public folks were thinking about.
+1:34:10
+How do we have this world where software companies are now trading at 4.1 times NTM in the public markets, but also getting priced at 300-400 times ARR in the private markets?
+1:34:42
+Speaker 5
+I would say it's an optimism disconnect. Public investors are like what is the risk of going to zero. Private market investors you're optimizing on what are the chances you're missing out on a 30-50-100X.
+1:35:28
+Speaker 2
+I had a portfolio company that is a SaaS business and they announced that workflows are now called agents in the product.
+1:35:54
+Speaker 5
+That Breaking Bad meme, we had a good thing. That was like all SaaS investors over the last year.
+1:36:18
+Speaker 1
+So let's start with the public markets. How much of this is driven by the Citrini article? How much is actual data points?
+1:37:04
+Speaker 5
+Two main things. Public market investors are fed up with stock based comp. And then are financials deteriorating? The answer is really no right now. It's more of this long term existential question of terminal value. 85 to 90% of a business's value was tied up in the period beyond the DCF.
+1:38:50
+Public investors are saying I can't tell the difference between Salesforce and ServiceNow and Snowflake and Crowdstrike. I'll just go put my bankroll in NVIDIA or Google. I'll wait for this to sort itself out.
+1:39:23
+Speaker 1
+Is there a world where we move to EBITDA multiples for software companies?
+1:39:43
+Speaker 5
+I worry more about the value abstraction on top of it. AI dollars this year are a bigger pie of net new dollar opportunities than all of software combined by 50%. If you're not capturing the AI dollars, your growth rate goes to near zero.
+1:43:44
+Logan Bartlett on AI's Impact and Cultural Shifts for Incumbents
+Speaker 5
+The newspaper example in the deck was that newspaper earnings were actually fairly stable for five years post Internet while their value collapsed. Everyone saw the writing on the wall.
+1:44:13
+Speaker 2
+Was anyone licking their chops? Being like this is the greatest buying opportunity?
+1:44:55
+Speaker 5
+Incumbent vendors are going to get every chance from their existing customers to get this right. But the culture of building AI companies is just so different than historical software companies.
+1:46:06
+Speaker 5
+One of the things Ramp did culturally was they shipped a lot of stuff and just put it in the market and see how people react. That was very different than the companies I invested in 2014-2016 which had tight product roadmaps and only released when fully ready.
+1:47:19
+That mindset is what I've seen with a lot of AI native companies. You're not totally sure what the model capabilities are going to be in three months time. You need to internalize what the customer is going to want and let those two things intersect.
+1:48:31
+Speaker 1
+I recently wanted to know how much we've spent on Apple products and was able to get that answer in Ramp's AI mode. But for my personal financials, I had to vibe code something. The question is where is that value going to be captured?
+1:49:15
+Speaker 5
+It's abstracting the value on top of it. My direct visiting of websites has definitely gone down because I interface with Claude or ChatGPT. I think that same thing's going to play out within the enterprise.
+1:50:32
+Speaker 2
+In the deck you talk about are we in a bubble. AI maybe isn't a bubble, but that does not mean we're not experiencing a massive bubble in the venture world.
+1:51:45
+Speaker 5
+It sort of goes to where value is going to accrue. Airlines were a transformative technology that didn't end up being a material investment opportunity. The second derivative things were more impactful. Our mortality rate of companies we invest in is going to be higher than in the past.
+1:52:53
+The categories end up so crowded. We're back to investing in teams and the wedge they're operating in. Model providers may soak up a ton of the equity value.
+1:54:02
+Logan Bartlett on AI Bubble, Value Accrual, and Buy vs. Build
+Speaker 2
+I remember with OpenSea and the NFT boom, revenue dropped 99%.
+1:55:25
+Speaker 1
+Are there any previous booms that you do like as comparison points?
+1:55:37
+Speaker 5
+The industrial revolution is the one people come back to the most. This is more of a revolution than a technical shift. The car or the airplane didn't fundamentally shift the balance of an entire workforce the way AI has the chance of doing.
+1:56:45
+Speaker 1
+How are you thinking about capability overhang and diffusion?
+1:57:16
+Speaker 5
+That's where you're seeing a lot of the FDE Palantir work. Bridging the last mile is really hard. AI to most people, 70% would say oh that's that ChatGPT thing. It's going to take far longer to get this out into society than people on the Internet think.
+1:59:33
+Speaker 2
+I did want to ask about buy versus build economics.
+1:59:42
+Speaker 5
+That's the one people have been asking all about. You can buy Slack for 1000 employees for a quarter million a year, or you could build it in house for around 2 million a year.
+2:00:16
+Speaker 5
+It's the 80/20 rule. People assume building a software product is getting to the proof of concept. But then there's integrations, SSO, search, file sharing, admin controls, compliance, emojis, GIF embeds.
+2:01:07
+Speaker 1
+I talked to a friend who runs a company and their IT spending is less than 1% of revenue.
+2:01:54
+Speaker 5
+What's material to companies is decreasing their workforce turnover from 70% to 60%, not saving 40K on the Slack budget.
+2:03:16
+Speaker 5
+Dropbox built their own data centers. I don't know if that was the right decision. The opportunity cost of incremental products or mindshare.
+2:04:12
+Speaker 2
+Did the current AI suite make making your annual report significantly easier?
+2:04:14
+Speaker 5
+I would guess 75% of the slides AI had some hand in either helping visually lay it out, writing some of the texts, maybe coming up with analogies. That is such a step function change versus 12 months ago.
+2:05:31
+Speaker 1
+What advice do you have for those who want to make a career out of venture capital?
+2:05:53
+Speaker 5
+We've hired people out of investment banks. It's an expressed interest in finance and technology. But increasingly the models are getting so good that agency might be the only thing that matters. We're finding people that are entrepreneurs, project managers, people with serendipitous paths.
+2:08:44
+Speaker 1
+What I'm hearing is that you're pulling up the ladder behind you.
+2:08:48
+Speaker 5
+The doors I walked through aren't just shut. They're cemented over. They've been fortified.
+2:09:47
+Sam Stephenson on Granola's Funding and AI Meeting Context
+Speaker 7
+So we have raised $125 million from Index Ventures and with KP participating as well.
+2:10:19
+Speaker 1
+Fantastic. What unlocked the round?
+2:10:30
+Speaker 7
+Growth has been good. The environment is waking up to the power of having all the context of what's happening in your meetings. Everybody adopting MCP is making it apparent that you can power so much of what's happening in your company with the right context.
+2:11:21
+Speaker 2
+Why do you think the labs have not built a product in this space?
+2:12:00
+Speaker 7
+I'm sure they are working on it. But I think we're basically people use us for meetings, which is only a slice of people's life. You can build a Granola clone super easily in a weekend. But all the work is in understanding the social nuance. Who are these people? Why are they meeting? What notes do you want out of it?
+2:13:33
+Speaker 2
+What's the most sci-fi element of the pitch?
+2:14:07
+Speaker 7
+If you want a pulse on what's happening with any project, asking Granola what's happening is easy and incredibly insightful. Transcripts are such a good up-to-date record of what's happening in a company.
+2:15:45
+Speaker 7
+All word of mouth. The majority of our growth is patient zero finds it at a company and then tells their friends because they love it so much.
+2:16:53
+Speaker 7
+We did Granola Crunched, a spin on Spotify Wrapped. Every user could generate a report about their year. Who's your partner in crime? What's your favorite catch phrase? What are some of the smartest and dumbest things you said?
+2:18:27
+Speaker 2
+We have a buddy who built a massive company in a regulated industry who absolutely hates every product in this category because of discovery concerns.
+2:19:15
+Speaker 7
+Tools like this are kind of inevitable in a work context. We've ended up building retention controls. Some companies set transcripts to self destruct after 24 hours. A healthy level of abstraction is good for everybody.
+2:22:11
+Speaker 1
+Can you tell me about the brand? This could have been called Panopticon.
+2:22:34
+Speaker 7
+Taking notes in meetings is a really personal thing. We wanted Granola to always feel personal and like it's yours. All the branding is downstream of that. The messy, organic feeling textures. This is your thing, not your company's thing.
+2:23:47
+Ben Broca on Polsia: AI Platform for Autonomous Companies
+Speaker 8
+My name is Ben. I run a platform called Polsia. It's an AI that builds and runs companies autonomously. You give it an idea and it's going to go about building the products, running the marketing, running ads, doing support.
+2:24:39
+Speaker 1
+So should I think about this as you've fine-tuned agents, built workflows that leverage foundation models?
+2:24:54
+Speaker 8
+The fundamental models are super powerful. I pretty much think that AGI is here. The trick is knowing how to configure them to give them the right tools, the right orchestration. For example, one of our agents can run meta ads campaigns.
+2:26:03
+Speaker 1
+Is there a world where I give you a credit card and you already have the integration set up?
+2:26:27
+Speaker 8
+Today you pay a subscription and get 1 task every night. In the future, if you want to open a bakery in New York, Polsia will tell you to deposit 100K because we're going to have to do a deposit, pay the realtor, hire staff.
+2:27:54
+Speaker 2
+What are actual examples of automated companies on the platform?
+2:28:20
+Speaker 8
+An entrepreneur building a service to create ads from a script and reselling that. Another building an AI receptionist for businesses. Existing businesses using Polsia to build landing pages and run ads. It's $49 a month.
+2:30:01
+Speaker 8
+As long as humans are buying the goods and services, you need another human who understands the subtleties. The 80% operational work can be fully automated. But the 20% which is taste, branding, marketing, positioning, you need humans for that.
+2:33:03
+Speaker 1
+We have to ask you about the name. It spells AI slop backwards. Is that intentional?
+2:33:12
+Speaker 8
+It started not as a joke. My lawyer asked me to come up with the name for the inc. I was like I could name it Pulse, AI slop in reverse. That's a good name.
+2:34:36
+Brett Adcock on Hark: Advanced Personalized AI and Hardware
+Speaker 4
+I've been working for the last three years on humanoid robots. Separately, I've been using and watching what's happened with language models and they're just incredibly dumb. They don't remember anything about me. It's not very personal.
+2:35:37
+About seven months ago, I started a new AI lab called Hark. We want to build really advanced personalized intelligence. We think there's fundamental gaps remaining in the models. We're also building next generation AI devices.
+2:36:23
+One of our key guys Abadur previously led design for MacBook, MacBook Air, iPhone 13, 15, 16, 17.
+2:36:52
+Speaker 2
+Is it the interface that you think is the issue, or do you need more compute locally?
+2:36:59
+Speaker 4
+I think there's large gaps in the model side and the interface is extremely broken. Computer use agents today are just not very good. Speech to speech systems are not great. They don't remember things, can't access my calendar, pretty high latency.
+2:38:22
+Speaker 2
+What is the hiring market right now?
+2:38:44
+Speaker 4
+All the other companies are kind of boring and doing the same thing. We've hired over 50 people, about 2/3 from the AI side from top frontier labs. It's probably one of the most competitive areas I've hired for.
+2:40:07
+Speaker 2
+Why build Hark externally instead of inside Figure?
+2:40:32
+Speaker 4
+I'm a big fan of focus. Figure has a singular focus on humanoid robots. Hark wants to launch next generation consumer electronics and build extremely multimodal models. But the voice on the robot today is using the Hark voice API.
+2:41:42
+We have an entire data center of B200s. Figure literally has half the building and Hark has the other half.
+2:41:50
+Speaker 1
+What's the latest timeline on the ChatGPT moment for humanoid robotics?
+2:42:28
+Speaker 4
+You can come to Figure right now and see robots running complete 24/7 shifts fully autonomously with neural nets all the way down the stack. This will be a big year for us to ship robots commercially. We're also working on getting robots to do laundry and dishes.
+2:43:21
+The White House last week, the first humanoid robot built in the US at the White House in history. It was huge. The whole world is waking up to the moment of humanoids.
+2:44:06
+Speaker 2
+Can humanoids reliably crack open a cold Diet Coke and serve it?
+2:44:17
+Speaker 4
+I don't think they should have any problem doing this.
+2:44:55
+Andrei Serban on Console's AI Agents for IT Support
+Speaker 9
+We build AI agents that automate service management or employee support. We do that directly in Slack or Teams. Things like onboarding, offboarding, PTO, access management.
+2:45:59
+Last week we just launched a big product called Assistant. It helps do Tier 2 work. It's an agent that helps your IT, HR, legal, finance team automate more complex tasks that span multiple systems.
+2:46:31
+Console knows how to pull data from Meraki, CrowdStrike, Okta, Entra. You can also tell it to fix things, like push an update to a user's laptop.
+2:46:47
+And you can have Console build out itself now. You can tell it to connect into Gusto or NetSuite. Console will read the API docs, build its own connector, and write a workflow.
+2:47:28
+Speaker 9
+When we started, our engineers used AI agents to build integrations in 2 to 3 days. Now the customer can just tell Console directly and it'll build itself out.
+2:48:35
+Speaker 2
+That's going to be an entirely new part of every product. You should be able to adapt the software to your own needs.
+2:49:13
+Speaker 9
+The core unlock was building a really robust framework interface. And the context graph where we're ingesting data from different systems and modeling out your organization. Console already knows who John is and what laptop he has.
+2:50:35
+Speaker 1
+Talk me through onboarding to Console. How are companies thinking about this?
+2:51:09
+Speaker 9
+Most IT teams scale linearly with headcount. With Console they go from one to 400 or 500 ratio. We work with companies like Databricks, Cursor, Figma, Chime. A lot of them plan to keep their IT teams flat through hyper growth.
+2:52:33
+Speaker 2
+Do you force yourself to dogfood the product?
+2:52:44
+Speaker 9
+Everyone has full admin access and is encouraged to build their own workflows. Our office manager is going to have Console do our dinner orders. Our head of security rolled out CrowdStrike on all devices in 40 minutes instead of a day or two, entirely through Assistant.
+2:55:01
+Speaker 2
+How are you modeling the overall opportunity?
+2:55:56
+Speaker 9
+In the 80s and 90s, IT was actually an enablement center. Now they're just doing support, constantly drowning. Console allows them to focus on the strategic. We're also replacing tools like ServiceNow and Jira Service Desk.
+2:58:41
+The Artemis 2 Mission to the Moon and Episode Wrap-up
+Speaker 1
+Artemis 2 is launching. We're going to the moon. Four people are going to the moon. Everyday astronauts says I'm honestly shocked at how the general public has no idea Artemis 2 is taking humans out to the moon and will be the furthest humans have ever flown.
+2:59:18
+Speaker 1
+Why is no one talking about the moon? We're going. NASA is set to launch 4 astronauts around the moon, the deepest human Space Flight since the final Apollo lunar landing in 1972.
+2:59:47
+Speaker 2
+It's been an honour.
+3:00:01
+Speaker 1
+We will see you tomorrow. Goodbye.
+3:00:07
+Speaker 2
+See you tomorrow, folks.
+3:00:10
+Speaker 2
+Wonderful day, goodbye.
