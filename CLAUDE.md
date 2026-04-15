@@ -1,6 +1,6 @@
 # podcast-summarizer
 
-Turns a podcast episode URL into a self-contained HTML infographic — AI chapter summaries, insight scores, speaker attribution, D3.js knowledge graph, and in-page RAG Q&A.
+Turns a podcast episode URL into a self-contained HTML infographic — AI chapter summaries, insight scores, speaker attribution, and D3.js knowledge graph.
 
 ## Quick start
 
@@ -15,7 +15,6 @@ node index.js <episode-url> --out ./out        # custom output directory (defaul
 Output files written to `./output/`:
 - `<slug>.html` — self-contained HTML infographic (open in browser)
 - `<slug>.md` — Markdown export of all chapter summaries
-- `<slug>.rag.json` — TF-IDF index for the in-page Q&A chat
 - `<slug>.log.json` — step timings, critic retries, eval scores, warnings
 
 Episode cache lives at `~/.podcast-summarizer/library/`. Use `--no-cache` to force re-scrape.
@@ -68,7 +67,6 @@ test/
 ├── chapters.test.js      — anchor quote lookup logic (exact, fuzzy, fallback)
 ├── error-paths.test.js   — assertTranscript errors, parseSpeakerMap edge cases
 ├── library.test.js       — episode cache hit/miss, hash stability
-├── rag.test.js           — TF-IDF index build, query topK, relevance
 ├── scraper.test.js       — all 7 scrapers via HTML fixtures (no network)
 ├── url-router.test.js    — URL routing, unsupported site rejection
 ├── fixtures/             — saved HTML for scraper tests
@@ -102,11 +100,10 @@ lib/
 ├── chapters.js     — LLM chapter detection with anchor quote resolution
 ├── critic.js       — per-chapter quality critic loop (max 2 retries)
 ├── eval.js         — 5-dimension final quality gate
-├── html.js         — HTML infographic renderer with D3.js + RAG Q&A
+├── html.js         — HTML infographic renderer with D3.js
 ├── library.js      — URL-hash episode cache (~/.podcast-summarizer/library/)
 ├── logger.js       — run logger → output/<slug>.log.json
 ├── markdown.js     — Markdown export
-├── rag.js          — pure-JS TF-IDF RAG (buildIndex / query)
 ├── util.js         — escapeHtml, slugify
 └── scrapers/
     ├── index.js                    — URL router
@@ -129,7 +126,7 @@ index.js            — 7-step pipeline CLI entry point
 4. **Enrich** — LLM generates summary, key quote, concept chips, insight scores per chapter (p-limit 4)
 5. **Critic** — hard-rules rubric validates each chapter; re-generates on fail (max 2 retries)
 6. **Synthesize + eval** — LLM builds knowledge graph + episode thesis; quality gate checks 5 dimensions
-7. **Render** — HTML infographic + Markdown + RAG index + log file written to disk
+7. **Render** — HTML infographic + Markdown + log file written to disk
 
 ## Adding a new scraper
 

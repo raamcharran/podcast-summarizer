@@ -15,7 +15,6 @@ For every episode you process, the tool produces a single self-contained HTML fi
 - **Episode thesis** — the central argument extracted and explained in one paragraph
 - **Speaker attribution** — who said what, with host questions and guest positions tracked per chapter
 - **Insight scoring** — novelty, actionability, and specificity rated per chapter
-- **In-page Q&A** — ask questions about the episode, answered instantly via client-side TF-IDF (no server needed)
 - **Markdown export** — download the full summary as `.md` with one click
 
 ---
@@ -130,7 +129,7 @@ Episode URL
   → Generate infographics   (AI: per-chapter SVG visuals — 8 design patterns)
   → Synthesize episode      (AI: 25+ node knowledge graph + episode thesis)
   → Quality gate            (5-dimension eval, re-gen weak chapters if any score < 3/5)
-  → Render HTML             (D3.js force graph, client-side RAG Q&A, dark theme)
+  → Render HTML             (D3.js force graph, dark theme)
 ```
 
 Each stage is independently cached to disk. Re-running skips completed stages automatically.
@@ -188,12 +187,11 @@ lib/
   chapters.js      — LLM chapter detection with anchor quote resolution
   critic.js        — Per-chapter quality validation loop (max 3 retries)
   eval.js          — 5-dimension quality gate
-  html.js          — HTML + D3.js + client-side RAG renderer
+  html.js          — HTML + D3.js renderer
   infographic.js   — LLM-generated per-chapter SVG graphics (8 patterns)
   library.js       — Episode cache (URL-hash keyed)
   logger.js        — Execution log writer
   markdown.js      — Markdown export
-  rag.js           — Pure-JS TF-IDF search engine
   util.js          — escapeHtml, slugify helpers
   d3.v7.min.js     — D3.js library (embedded in output HTML)
   scrapers/

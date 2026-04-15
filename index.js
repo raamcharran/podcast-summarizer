@@ -11,7 +11,6 @@ import { enrichChapters, synthesizeEpisode } from './lib/analyze.js';
 import { generateInfographics } from './lib/infographic.js';
 import { runCriticLoop } from './lib/critic.js';
 import { runQualityGate } from './lib/eval.js';
-import { buildIndex } from './lib/rag.js';
 import { assembleHtml } from './lib/html.js';
 import { buildMarkdown } from './lib/markdown.js';
 import { cacheGet, cacheSet, cacheExists } from './lib/library.js';
@@ -194,7 +193,7 @@ async function run() {
     }
   }
 
-  // Step 8: Render + RAG index + cache
+  // Step 8: Render + cache
   console.log('[8/8] Rendering output…');
   const result = { episodeMeta, chapters, analyses, synthesis, infographics };
   cacheSet(effectiveUrl, result);
@@ -211,16 +210,8 @@ async function renderOutputs({ episodeMeta, chapters, analyses, synthesis, infog
     episodeMeta.episodeUrl = url.replace(/-transcript\/?$/, '');
   }
 
-  // RAG index sidecar
-  const ragIndex = buildIndex(chapters.map((ch, i) => ({
-    title: ch.title,
-    text: ch.text,
-  })));
-  const ragPath = path.join(outputDir, `${slug}.rag.json`);
-  fs.writeFileSync(ragPath, JSON.stringify(ragIndex), 'utf8');
-
-  // HTML — RAG index embedded inline (self-contained, works on file://)
-  const html = assembleHtml(episodeMeta, chapters, analyses, synthesis, ragIndex, infographics || []);
+  // HTML — self-contained, works on file://
+  const html = assembleHtml(episodeMeta, chapters, analyses, synthesis, infographics || []);
   const htmlPath = path.join(outputDir, `${slug}.html`);
   fs.writeFileSync(htmlPath, html, 'utf8');
 
@@ -232,7 +223,6 @@ async function renderOutputs({ episodeMeta, chapters, analyses, synthesis, infog
   // Run log
   logger.step('render_done', {
     output: `${slug}.html`,
-    rag: `${slug}.rag.json`,
     md: `${slug}.md`,
   });
   const logPath = logger.write(url);
@@ -240,7 +230,6 @@ async function renderOutputs({ episodeMeta, chapters, analyses, synthesis, infog
   console.log(`\n✓ Done!`);
   console.log(`  HTML:     ${htmlPath}`);
   console.log(`  Markdown: ${mdPath}`);
-  console.log(`  RAG:      ${ragPath}`);
   console.log(`  Log:      ${logPath}\n`);
 }
 

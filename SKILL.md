@@ -1,6 +1,6 @@
 ---
 name: podcast
-description: Turn a podcast episode URL into a self-contained interactive HTML summary (chapter infographics, D3 knowledge graph, speaker attribution, RAG Q&A). Use when the user wants to summarize, analyze, or generate a visual summary from a podcast episode URL. Supported sites - Conversations with Tyler, Dwarkesh, Cheeky Pint, Invest Like the Best, TBPN, Acquired, Lex Fridman, YouTube.
+description: Turn a podcast episode URL into a self-contained interactive HTML summary (chapter infographics, D3 knowledge graph, speaker attribution). Use when the user wants to summarize, analyze, or generate a visual summary from a podcast episode URL. Supported sites - Conversations with Tyler, Dwarkesh, Cheeky Pint, Invest Like the Best, TBPN, Acquired, Lex Fridman, YouTube.
 ---
 
 # podcast
@@ -17,7 +17,7 @@ Run the tool from this skill directory:
 cd ~/.claude/skills/podcast && node index.js "<episode-url>"
 ```
 
-Output goes to `~/.claude/skills/podcast/output/<episode-slug>.html` (plus `.md`, `.rag.json`, `.log.json`). Report the absolute path back to the user so they can open it.
+Output goes to `~/.claude/skills/podcast/output/<episode-slug>.html` (plus `.md`, `.log.json`). Report the absolute path back to the user so they can open it.
 
 Typical run time is **10-30 minutes** depending on transcript length. Start the command with `run_in_background: true` and poll it with the Monitor/TaskOutput tools rather than blocking the conversation.
 
