@@ -1,6 +1,6 @@
 // Paid eval: 5-dimension quality gate tests using real LLM enrichment output
 // Run with: npm run test:evals
-// Requires AI provider env vars (ANTHROPIC_API_KEY, OPENAI_API_KEY, or claude-cli session)
+// Requires AI provider env vars or a logged-in local session (Codex / Claude Code)
 
 import { test } from 'node:test';
 import assert from 'node:assert/strict';

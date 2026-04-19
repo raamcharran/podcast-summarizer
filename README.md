@@ -2,7 +2,7 @@
 
 > Turn any podcast episode into a rich, interactive visual summary — AI-generated chapter infographics, a clickable knowledge graph, speaker attribution, and a full markdown export.
 
-Works with **Claude Code** (no API key needed — uses your Claude Pro or Max subscription). Also supports Anthropic API, OpenAI, or any OpenAI-compatible provider.
+Works with **Claude Code** or **Codex** (no API key needed when you're already signed in). Also supports Anthropic API, OpenAI, or any OpenAI-compatible provider.
 
 ---
 
@@ -39,10 +39,16 @@ For every episode you process, the tool produces a single self-contained HTML fi
 ### Prerequisites
 
 - **Node.js 18+**
-- **Claude Code** installed and logged in with a Claude Pro or Max account:
+- **One local coding harness**:
+  - **Claude Code** installed and logged in with a Claude Pro or Max account:
   ```bash
   npm install -g @anthropic-ai/claude-code
   claude  # log in on first run
+  ```
+  - **Codex** available in the Codex app/CLI session you're running from, or installed via npm:
+  ```bash
+  npm install -g @openai/codex
+  codex  # log in on first run if needed
   ```
 
 ### Setup (one time)
@@ -59,7 +65,7 @@ npm install
 node index.js "https://conversationswithtyler.com/episodes/marc-andreessen/"
 ```
 
-That's it. The tool uses your active Claude Code session — no API key required. Output is saved to `./output/<episode-slug>.html`. Open it in any browser.
+That's it. If you're running inside Claude Code, it uses Claude Code. If you're running inside Codex, it uses Codex. No API key is required for either local session path. Output is saved to `./output/<episode-slug>.html`. Open it in any browser.
 
 Typical time: **10–30 min** per episode depending on transcript length. All stages are cached — if interrupted, re-running resumes from where it left off.
 
@@ -67,7 +73,7 @@ Typical time: **10–30 min** per episode depending on transcript length. All st
 
 ## Using with an API key instead
 
-If you're not on Claude Code, set one of these before running:
+If you're not using Claude Code or Codex, set one of these before running:
 
 ```bash
 export ANTHROPIC_API_KEY=sk-ant-...
@@ -90,6 +96,7 @@ See [PROVIDERS.md](PROVIDERS.md) for full setup details including OpenAI-compati
 | Provider | How to activate | Default model |
 |---|---|---|
 | **Claude Code** (recommended) | Logged-in Claude Code session (Pro or Max) | session default |
+| **Codex** | Running inside a signed-in Codex app/CLI session | session default |
 | **Anthropic API** | `ANTHROPIC_API_KEY=sk-ant-...` | `claude-sonnet-4-6` |
 | **OpenAI** | `OPENAI_API_KEY=sk-...` | `gpt-4o-mini` |
 | **OpenAI-compatible** (Groq, Together, Ollama...) | `OPENAI_API_KEY=...` + `OPENAI_BASE_URL=https://...` | `gpt-4o-mini` |
@@ -97,6 +104,7 @@ See [PROVIDERS.md](PROVIDERS.md) for full setup details including OpenAI-compati
 Optional overrides:
 
 ```bash
+AI_PROVIDER=codex            # force Codex even outside Codex env
 AI_MODEL=claude-opus-4-6    # use a specific model
 AI_TIMEOUT_MS=300000        # LLM call timeout in ms (default: 5 min)
 ```
@@ -182,7 +190,7 @@ Each scraper must return:
 ```
 index.js           — CLI entry point (7-step pipeline)
 lib/
-  ai.js            — Multi-provider AI abstraction (Anthropic, OpenAI, Claude CLI)
+  ai.js            — Multi-provider AI abstraction (Codex, Claude Code, Anthropic, OpenAI)
   analyze.js       — Chapter enrichment + episode knowledge graph synthesis
   chapters.js      — LLM chapter detection with anchor quote resolution
   critic.js        — Per-chapter quality validation loop (max 3 retries)

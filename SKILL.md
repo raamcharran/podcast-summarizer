@@ -47,7 +47,7 @@ If the URL doesn't match any supported site, tell the user and do not attempt to
 
 ## Provider
 
-The tool auto-detects the AI provider. On this machine, the user runs Claude Code with an active Pro/Max session, so **no API key is needed** — the tool will fall back to the Claude CLI session automatically. Do not set `ANTHROPIC_API_KEY` unless the user asks.
+The tool auto-detects the AI provider. If the user is running inside Claude Code, it uses the Claude session automatically. If the user is running inside Codex, it uses Codex automatically. Otherwise it falls back to API-key providers and finally Claude CLI when no API key is set. Do not set `ANTHROPIC_API_KEY` unless the user asks.
 
 ## Pre-flight checks before first run
 

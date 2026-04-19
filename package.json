@@ -1,7 +1,7 @@
 {
   "name": "podcast-summarizer",
   "version": "0.1.0",
-  "description": "Turn any podcast episode into an interactive visual summary — AI-generated infographics, knowledge graph, speaker attribution, and chapter breakdowns. Works with Anthropic, OpenAI, or local Claude CLI.",
+  "description": "Turn any podcast episode into an interactive visual summary — AI-generated infographics, knowledge graph, speaker attribution, and chapter breakdowns. Works with Claude Code, Codex, Anthropic, OpenAI, or OpenAI-compatible providers.",
   "main": "index.js",
   "type": "module",
   "keywords": [
@@ -13,7 +13,8 @@
     "transcript",
     "anthropic",
     "openai",
-    "claude"
+    "claude",
+    "codex"
   ],
   "scripts": {
     "start": "node index.js",

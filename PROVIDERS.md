@@ -2,6 +2,7 @@
 
 This tool can route AI calls through any of the following providers:
 
+- `codex`
 - `claude-cli`
 - `anthropic`
 - `openai`
@@ -10,6 +11,7 @@ This tool can route AI calls through any of the following providers:
 ## Environment variables
 
 ```bash
+export AI_PROVIDER='codex'
 export AI_PROVIDER='claude-cli'
 export AI_MODEL='claude-sonnet-4-6'        # optional except on claude-cli
 export ANTHROPIC_API_KEY='...'
@@ -19,6 +21,12 @@ export AI_TIMEOUT_MS='300000'              # optional, default 5 min
 ```
 
 ## Examples
+
+Codex session (no API key needed when running inside Codex):
+
+```bash
+node index.js "https://conversationswithtyler.com/episodes/marc-andreessen/"
+```
 
 Claude CLI session (recommended — no API key needed):
 
@@ -55,13 +63,16 @@ node index.js "https://youtube.com/watch?v=..."
 
 If you don't set `AI_PROVIDER` explicitly, the tool detects which provider to use:
 
-1. `OPENAI_API_KEY` + `OPENAI_BASE_URL` → `openai-compatible`
-2. `OPENAI_API_KEY` alone → `openai`
-3. `ANTHROPIC_API_KEY` → `anthropic`
-4. None of the above → `claude-cli` (default)
+1. `AI_PROVIDER` explicitly set → that provider
+2. Running inside Codex (`CODEX_SHELL`, `CODEX_THREAD_ID`, etc.) → `codex`
+3. `OPENAI_API_KEY` + `OPENAI_BASE_URL` → `openai-compatible`
+4. `OPENAI_API_KEY` alone → `openai`
+5. `ANTHROPIC_API_KEY` → `anthropic`
+6. None of the above → `claude-cli` (default)
 
 ## Notes
 
+- Codex prompts are sent through `codex exec` and large prompts are streamed over stdin, so transcript-sized requests work without hitting command-line length limits.
 - Cost is ~$0.14/episode on Anthropic Claude Sonnet. Claude CLI (Pro/Max subscription) has no per-episode cost.
 - Claude Sonnet produces the best results. Smaller models work but may produce simpler infographics.
 - The `--debug-scrape` flag does not make any AI calls — useful for testing scrapers without incurring cost.

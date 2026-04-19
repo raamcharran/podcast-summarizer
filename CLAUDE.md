@@ -33,7 +33,7 @@ Episode cache lives at `~/.podcast-summarizer/library/`. Use `--no-cache` to for
 
 ## AI provider setup
 
-The tool auto-detects the provider from environment variables:
+The tool auto-detects the provider from environment and session signals:
 
 ```bash
 # Anthropic (recommended)
@@ -49,6 +49,9 @@ export AI_MODEL=llama3.2
 
 # Claude CLI session (no API key needed if logged in)
 # falls back to this automatically when no key is set
+
+# Codex session (no API key needed when running inside Codex)
+# auto-detected before API-key providers
 ```
 
 Cost: ~$0.14/episode on Anthropic claude-sonnet-4-6.
@@ -95,7 +98,7 @@ test/
 
 ```
 lib/
-├── ai.js           — provider-agnostic LLM client (Anthropic / OpenAI / Claude CLI)
+├── ai.js           — provider-agnostic LLM client (Codex / Claude Code / Anthropic / OpenAI)
 ├── analyze.js      — chapter enrichment + episode synthesis (LLM)
 ├── chapters.js     — LLM chapter detection with anchor quote resolution
 ├── critic.js       — per-chapter quality critic loop (max 2 retries)
