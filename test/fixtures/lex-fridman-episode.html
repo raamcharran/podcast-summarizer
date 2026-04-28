@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta property="og:title" content="Transcript for Jensen Huang: NVIDIA - The $4 Trillion Company &amp; the AI Revolution | Lex Fridman Podcast #494 - Lex Fridman">
+  <meta property="og:type" content="article">
+  <meta property="article:published_time" content="2025-01-10">
+  <title>Lex Fridman</title>
+</head>
+<body>
+<header><h1>Lex Fridman</h1></header>
+<main>
+<div class="ts-transcript">
+
+<div class="ts-segment">
+  <span class="ts-name">Lex Fridman</span>
+  <span class="ts-timestamp">(00:00:00)</span>
+  <span class="ts-text">The following is a conversation with Jensen Huang, CEO of NVIDIA, one of the most important and influential companies in the history of human civilization. NVIDIA is the engine powering the AI revolution, and Jensen has been at the helm for over three decades, navigating every major wave of computing from graphics to deep learning to the current era of large language models and foundation AI.</span>
+</div>
+
+<div class="ts-segment">
+  <span class="ts-name">Lex Fridman</span>
+  <span class="ts-timestamp">(00:00:42)</span>
+  <span class="ts-text">Jensen, welcome back to the podcast. You have propelled NVIDIA into a new era of AI, moving beyond the traditional focus on chip-scale design to rack-scale design, and now even data-center-scale design. The GPU, which you championed decades ago, has become the fundamental computing substrate for the entire AI industry. How do you think about what NVIDIA is building today versus what you imagined when you founded the company in 1993?</span>
+</div>
+
+<div class="ts-segment">
+  <span class="ts-name">Jensen Huang</span>
+  <span class="ts-timestamp">(00:01:20)</span>
+  <span class="ts-text">When we founded NVIDIA in 1993, we had a very specific vision: we wanted to solve problems that general-purpose computing simply could not. Graphics is a perfect example. The amount of computation required to render a single frame of a video game — the matrix multiplications, the shading, the lighting equations — it was completely infeasible on a CPU. So we built a specialized processor. And that insight — that there are entire categories of problems that benefit enormously from a different computing architecture — has carried us all the way to today.</span>
+</div>
+
+<div class="ts-segment">
+  <span class="ts-name">Jensen Huang</span>
+  <span class="ts-timestamp">(00:02:10)</span>
+  <span class="ts-text">What changed is the scale of the problem. In 1993, we were solving the problem of rendering 3D graphics for games. In 2012, when AlexNet showed that deep learning could outperform every other approach on ImageNet, we suddenly realized that the GPU — which we had spent decades optimizing for matrix math — was also the perfect substrate for training neural networks. The math is almost identical. It was like discovering that the engine you built for Formula One racing could also power a rocket ship.</span>
+</div>
+
+<div class="ts-segment">
+  <span class="ts-name">Lex Fridman</span>
+  <span class="ts-timestamp">(00:03:00)</span>
+  <span class="ts-text">That moment in 2012 with AlexNet — were you aware in real time that something fundamental had shifted? Or did it take time to understand the magnitude of what had just happened?</span>
+</div>
+
+<div class="ts-segment">
+  <span class="ts-name">Jensen Huang</span>
+  <span class="ts-timestamp">(00:03:15)</span>
+  <span class="ts-text">I knew immediately. When I looked at the results — the error rate dropped from around 26% to 15% in a single year — that kind of discontinuous improvement doesn't happen in mature fields. That's not incremental progress. That's a phase transition. Geoffrey Hinton and his students, Ilya Sutskever and Alex Krizhevsky, had demonstrated something that changed the trajectory of computing. I called our team together and said: everything we do going forward needs to be optimized for deep learning. We made a bet that day that has defined the company ever since.</span>
+</div>
+
+<div class="ts-segment">
+  <span class="ts-name">Lex Fridman</span>
+  <span class="ts-timestamp">(00:04:30)</span>
+  <span class="ts-text">Let's talk about the architecture of intelligence at scale. NVIDIA is now building not just chips but entire systems — the DGX, the NVLink interconnects, the InfiniBand networks. You've said the GPU is no longer the right unit of analysis. It's the data center itself. Can you explain what you mean by that?</span>
+</div>
+
+<div class="ts-segment">
+  <span class="ts-name">Jensen Huang</span>
+  <span class="ts-timestamp">(00:04:55)</span>
+  <span class="ts-text">The training of a modern foundation model like GPT-4 or Gemini requires so much compute that it cannot fit on a single chip, or even a single server. You're talking about clusters of tens of thousands of GPUs running for months at a time. At that scale, the bottleneck is no longer the chip itself — it's the communication between chips. The speed at which gradient information flows between GPUs during backpropagation determines how efficiently you can train. NVLink is our high-speed interconnect that solves this. And the topology of how you arrange the chips, how you route the data, becomes as important as the compute itself.</span>
+</div>
+
+<div class="ts-segment">
+  <span class="ts-name">Jensen Huang</span>
+  <span class="ts-timestamp">(00:06:00)</span>
+  <span class="ts-text">We now think of the data center as the computer. The rack is a unit of compute. The building is a unit of compute. When a company like Google or Microsoft or Meta orders NVIDIA hardware, they're not ordering individual GPUs — they're ordering computing factories. And our job is to design those factories to be as efficient as possible: the power, the cooling, the networking, the memory bandwidth, all optimized together as a single system. This is what I mean by rack-scale and data-center-scale design. It's a completely different engineering discipline from chip design.</span>
+</div>
+
+<div class="ts-segment">
+  <span class="ts-name">Lex Fridman</span>
+  <span class="ts-timestamp">(00:07:10)</span>
+  <span class="ts-text">There's a famous concept in computer architecture called Amdahl's Law — the speedup you get from optimizing one component is limited by the fraction of time spent on that component. How does that apply to what you're doing at data center scale?</span>
+</div>
+
+<div class="ts-segment">
+  <span class="ts-name">Jensen Huang</span>
+  <span class="ts-timestamp">(00:07:35)</span>
+  <span class="ts-text">Amdahl's Law is exactly why co-design is so critical. If you make the GPU ten times faster but the memory bandwidth stays the same, you've hit a wall. If you make the compute faster but the interconnect slower, the chips spend most of their time waiting for data. We have to optimize the entire system simultaneously. That's why NVIDIA has invested so heavily in things that look adjacent to chips: networking, memory architectures, software stacks, even the physical packaging of chips. We're constantly asking: what is the actual bottleneck right now? And then we go attack it.</span>
+</div>
+
+<div class="ts-segment">
+  <span class="ts-name">Lex Fridman</span>
+  <span class="ts-timestamp">(00:09:00)</span>
+  <span class="ts-text">Let me ask you about the software side of the stack. CUDA, which NVIDIA released in 2006, is now the dominant programming model for GPU computing. That was a bet made years before deep learning became mainstream. How much of NVIDIA's success today is attributable to CUDA specifically?</span>
+</div>
+
+<div class="ts-segment">
+  <span class="ts-name">Jensen Huang</span>
+  <span class="ts-timestamp">(00:09:30)</span>
+  <span class="ts-text">CUDA is perhaps the most important single decision we ever made. In 2006, we were profitable and growing as a graphics company. We chose to invest hundreds of millions of dollars building a general-purpose parallel computing platform — CUDA — with no guarantee that anyone would use it outside of scientific computing. It was a contrarian bet. The conventional wisdom said: stick to graphics, that's your market. We said: there is a much larger class of problems that could benefit from massively parallel computation, and we want to be the platform they run on. That took years to pay off, but when deep learning arrived, researchers were already writing in CUDA. The ecosystem was already there.</span>
+</div>
+
+<div class="ts-segment">
+  <span class="ts-name">Jensen Huang</span>
+  <span class="ts-timestamp">(00:10:50)</span>
+  <span class="ts-text">And I want to be precise about what CUDA means strategically. It's not just a programming language. It's an entire stack: the compiler, the libraries, the profiling tools, the debuggers, the runtime. When a researcher writes code in CUDA, they're not just choosing a language — they're choosing to be deeply embedded in an ecosystem that we've been cultivating for nearly twenty years. That switching cost is real. It's not that competitors can't make good chips — some do. It's that the entire scientific and engineering community has built its muscle memory around CUDA. Retraining that takes years.</span>
+</div>
+
+<div class="ts-segment">
+  <span class="ts-name">Lex Fridman</span>
+  <span class="ts-timestamp">(00:12:00)</span>
+  <span class="ts-text">That's a good segue to your competitors. AMD, Intel, Google with TPUs, Meta with MTIA — there's a real effort to break the CUDA moat. How do you think about the competitive landscape over the next five to ten years?</span>
+</div>
+
+<div class="ts-segment">
+  <span class="ts-name">Jensen Huang</span>
+  <span class="ts-timestamp">(00:12:30)</span>
+  <span class="ts-text">I think competition is healthy, and I genuinely believe the world is better off with multiple strong players in accelerated computing. What I also believe is that NVIDIA's advantage is not primarily about any one chip generation. It's about the compounding of the ecosystem over time. Every year we've been at this, the libraries get better, the tools get better, the frameworks get better, the talent pool grows. The lead we have today is the result of twenty years of investment in software. You can't replicate that in two or three years by building a great chip. You can catch up on hardware. Catching up on software and ecosystem takes much longer.</span>
+</div>
+
+<div class="ts-segment">
+  <span class="ts-name">Lex Fridman</span>
+  <span class="ts-timestamp">(00:14:00)</span>
+  <span class="ts-text">Jensen, I want to ask you about the future of AI itself — not just the infrastructure but the intelligence. Where do you think we are on the path to artificial general intelligence? And what role does compute play in getting there?</span>
+</div>
+
+<div class="ts-segment">
+  <span class="ts-name">Jensen Huang</span>
+  <span class="ts-timestamp">(00:14:25)</span>
+  <span class="ts-text">I believe we are witnessing something genuinely historic. The scaling laws that have governed deep learning — the observation that more data, more parameters, and more compute consistently produce better models — have held far longer than almost anyone expected. Every year, researchers said we would hit a wall. Every year, the wall didn't appear. I am not ready to predict that the scaling laws will break. And if they continue to hold even for another five years, the models we will have are almost unimaginable by today's standards. The question of AGI — of systems that can generalize across arbitrary tasks the way humans can — is becoming less a question of whether and more a question of when and what form it takes.</span>
+</div>
+
+<div class="ts-segment">
+  <span class="ts-name">Jensen Huang</span>
+  <span class="ts-timestamp">(00:16:00)</span>
+  <span class="ts-text">What I can tell you with confidence is that the demand for compute will not decrease. Every advance in AI capability has, historically, generated more demand for compute, not less. More capable models find more applications, which drives more training runs, which drives more demand for GPUs. We've seen this cycle play out with every generation of AI. I don't see why the next generation would be different. If anything, as AI systems become more capable, the economic value of running them increases, and the willingness to invest in compute increases with it.</span>
+</div>
+
+</div>
+</main>
+</body>
+</html>
